@@ -1,5 +1,3 @@
 # proba
 
 igenigeninge
-
-Beleirtam
